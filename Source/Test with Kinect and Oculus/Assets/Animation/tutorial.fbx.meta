@@ -1,0 +1,1294 @@
+fileFormatVersion: 2
+guid: 2e041d484c6ed79479c905d378ce33f4
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: rechts|Head
+    100002: rechts|Hips
+    100004: rechts|LeftArm
+    100006: rechts|LeftFoot
+    100008: rechts|LeftForeArm
+    100010: rechts|LeftHand
+    100012: rechts|LeftHandIndex1
+    100014: rechts|LeftHandIndex2
+    100016: rechts|LeftHandIndex3
+    100018: rechts|LeftHandIndex4
+    100020: rechts|LeftHandMiddle1
+    100022: rechts|LeftHandMiddle2
+    100024: rechts|LeftHandMiddle3
+    100026: rechts|LeftHandMiddle4
+    100028: rechts|LeftHandPinky1
+    100030: rechts|LeftHandPinky2
+    100032: rechts|LeftHandPinky3
+    100034: rechts|LeftHandPinky4
+    100036: rechts|LeftHandRing1
+    100038: rechts|LeftHandRing2
+    100040: rechts|LeftHandRing3
+    100042: rechts|LeftHandRing4
+    100044: rechts|LeftHandThumb1
+    100046: rechts|LeftHandThumb2
+    100048: rechts|LeftHandThumb3
+    100050: rechts|LeftHandThumb4
+    100052: rechts|LeftLeg
+    100054: rechts|LeftShoulder
+    100056: rechts|LeftUpLeg
+    100058: rechts|Neck
+    100060: rechts|RightArm
+    100062: rechts|RightFoot
+    100064: rechts|RightForeArm
+    100066: rechts|RightHand
+    100068: rechts|RightHandIndex1
+    100070: rechts|RightHandIndex2
+    100072: rechts|RightHandIndex3
+    100074: rechts|RightHandIndex4
+    100076: rechts|RightHandMiddle1
+    100078: rechts|RightHandMiddle2
+    100080: rechts|RightHandMiddle3
+    100082: rechts|RightHandMiddle4
+    100084: rechts|RightHandPinky1
+    100086: rechts|RightHandPinky2
+    100088: rechts|RightHandPinky3
+    100090: rechts|RightHandPinky4
+    100092: rechts|RightHandRing1
+    100094: rechts|RightHandRing2
+    100096: rechts|RightHandRing3
+    100098: rechts|RightHandRing4
+    100100: rechts|RightHandThumb1
+    100102: rechts|RightHandThumb2
+    100104: rechts|RightHandThumb3
+    100106: rechts|RightHandThumb4
+    100108: rechts|RightLeg
+    100110: rechts|RightShoulder
+    100112: rechts|RightUpLeg
+    100114: rechts|Spine
+    100116: //RootNode
+    400000: rechts|Head
+    400002: rechts|Hips
+    400004: rechts|LeftArm
+    400006: rechts|LeftFoot
+    400008: rechts|LeftForeArm
+    400010: rechts|LeftHand
+    400012: rechts|LeftHandIndex1
+    400014: rechts|LeftHandIndex2
+    400016: rechts|LeftHandIndex3
+    400018: rechts|LeftHandIndex4
+    400020: rechts|LeftHandMiddle1
+    400022: rechts|LeftHandMiddle2
+    400024: rechts|LeftHandMiddle3
+    400026: rechts|LeftHandMiddle4
+    400028: rechts|LeftHandPinky1
+    400030: rechts|LeftHandPinky2
+    400032: rechts|LeftHandPinky3
+    400034: rechts|LeftHandPinky4
+    400036: rechts|LeftHandRing1
+    400038: rechts|LeftHandRing2
+    400040: rechts|LeftHandRing3
+    400042: rechts|LeftHandRing4
+    400044: rechts|LeftHandThumb1
+    400046: rechts|LeftHandThumb2
+    400048: rechts|LeftHandThumb3
+    400050: rechts|LeftHandThumb4
+    400052: rechts|LeftLeg
+    400054: rechts|LeftShoulder
+    400056: rechts|LeftUpLeg
+    400058: rechts|Neck
+    400060: rechts|RightArm
+    400062: rechts|RightFoot
+    400064: rechts|RightForeArm
+    400066: rechts|RightHand
+    400068: rechts|RightHandIndex1
+    400070: rechts|RightHandIndex2
+    400072: rechts|RightHandIndex3
+    400074: rechts|RightHandIndex4
+    400076: rechts|RightHandMiddle1
+    400078: rechts|RightHandMiddle2
+    400080: rechts|RightHandMiddle3
+    400082: rechts|RightHandMiddle4
+    400084: rechts|RightHandPinky1
+    400086: rechts|RightHandPinky2
+    400088: rechts|RightHandPinky3
+    400090: rechts|RightHandPinky4
+    400092: rechts|RightHandRing1
+    400094: rechts|RightHandRing2
+    400096: rechts|RightHandRing3
+    400098: rechts|RightHandRing4
+    400100: rechts|RightHandThumb1
+    400102: rechts|RightHandThumb2
+    400104: rechts|RightHandThumb3
+    400106: rechts|RightHandThumb4
+    400108: rechts|RightLeg
+    400110: rechts|RightShoulder
+    400112: rechts|RightUpLeg
+    400114: rechts|Spine
+    400116: //RootNode
+    7400000: rechts|BrekelKinect_capture_01_09_2014_16_29_25
+    7400002: rechts|BrekelKinect_capture_01_09_2014_16_35_53
+    7400004: rechts|BrekelKinect_capture_01_09_2014_16_43_10
+    7400006: rechts
+    7400008: links
+    7400010: beide
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: rechts
+      takeName: rechts|BrekelKinect_capture_01_09_2014_17_26_32
+      firstFrame: 37
+      lastFrame: 122
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: rechts|Hips
+        weight: 1
+      - path: rechts|Hips/rechts|LeftUpLeg
+        weight: 1
+      - path: rechts|Hips/rechts|LeftUpLeg/rechts|LeftLeg
+        weight: 1
+      - path: rechts|Hips/rechts|LeftUpLeg/rechts|LeftLeg/rechts|LeftFoot
+        weight: 1
+      - path: rechts|Hips/rechts|RightUpLeg
+        weight: 1
+      - path: rechts|Hips/rechts|RightUpLeg/rechts|RightLeg
+        weight: 1
+      - path: rechts|Hips/rechts|RightUpLeg/rechts|RightLeg/rechts|RightFoot
+        weight: 1
+      - path: rechts|Hips/rechts|Spine
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandIndex1
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandIndex1/rechts|LeftHandIndex2
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandIndex1/rechts|LeftHandIndex2/rechts|LeftHandIndex3
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandIndex1/rechts|LeftHandIndex2/rechts|LeftHandIndex3/rechts|LeftHandIndex4
+        weight: 0
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandMiddle1
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandMiddle1/rechts|LeftHandMiddle2
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandMiddle1/rechts|LeftHandMiddle2/rechts|LeftHandMiddle3
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandMiddle1/rechts|LeftHandMiddle2/rechts|LeftHandMiddle3/rechts|LeftHandMiddle4
+        weight: 0
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandPinky1
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandPinky1/rechts|LeftHandPinky2
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandPinky1/rechts|LeftHandPinky2/rechts|LeftHandPinky3
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandPinky1/rechts|LeftHandPinky2/rechts|LeftHandPinky3/rechts|LeftHandPinky4
+        weight: 0
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandRing1
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandRing1/rechts|LeftHandRing2
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandRing1/rechts|LeftHandRing2/rechts|LeftHandRing3
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandRing1/rechts|LeftHandRing2/rechts|LeftHandRing3/rechts|LeftHandRing4
+        weight: 0
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandThumb1
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandThumb1/rechts|LeftHandThumb2
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandThumb1/rechts|LeftHandThumb2/rechts|LeftHandThumb3
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandThumb1/rechts|LeftHandThumb2/rechts|LeftHandThumb3/rechts|LeftHandThumb4
+        weight: 0
+      - path: rechts|Hips/rechts|Spine/rechts|Neck
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|Neck/rechts|Head
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandIndex1
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandIndex1/rechts|RightHandIndex2
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandIndex1/rechts|RightHandIndex2/rechts|RightHandIndex3
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandIndex1/rechts|RightHandIndex2/rechts|RightHandIndex3/rechts|RightHandIndex4
+        weight: 0
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandMiddle1
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandMiddle1/rechts|RightHandMiddle2
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandMiddle1/rechts|RightHandMiddle2/rechts|RightHandMiddle3
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandMiddle1/rechts|RightHandMiddle2/rechts|RightHandMiddle3/rechts|RightHandMiddle4
+        weight: 0
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandPinky1
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandPinky1/rechts|RightHandPinky2
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandPinky1/rechts|RightHandPinky2/rechts|RightHandPinky3
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandPinky1/rechts|RightHandPinky2/rechts|RightHandPinky3/rechts|RightHandPinky4
+        weight: 0
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandRing1
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandRing1/rechts|RightHandRing2
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandRing1/rechts|RightHandRing2/rechts|RightHandRing3
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandRing1/rechts|RightHandRing2/rechts|RightHandRing3/rechts|RightHandRing4
+        weight: 0
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandThumb1
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandThumb1/rechts|RightHandThumb2
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandThumb1/rechts|RightHandThumb2/rechts|RightHandThumb3
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandThumb1/rechts|RightHandThumb2/rechts|RightHandThumb3/rechts|RightHandThumb4
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: links
+      takeName: rechts|BrekelKinect_capture_01_09_2014_17_27_13
+      firstFrame: 45
+      lastFrame: 122
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: rechts|Hips
+        weight: 1
+      - path: rechts|Hips/rechts|LeftUpLeg
+        weight: 1
+      - path: rechts|Hips/rechts|LeftUpLeg/rechts|LeftLeg
+        weight: 1
+      - path: rechts|Hips/rechts|LeftUpLeg/rechts|LeftLeg/rechts|LeftFoot
+        weight: 1
+      - path: rechts|Hips/rechts|RightUpLeg
+        weight: 1
+      - path: rechts|Hips/rechts|RightUpLeg/rechts|RightLeg
+        weight: 1
+      - path: rechts|Hips/rechts|RightUpLeg/rechts|RightLeg/rechts|RightFoot
+        weight: 1
+      - path: rechts|Hips/rechts|Spine
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandIndex1
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandIndex1/rechts|LeftHandIndex2
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandIndex1/rechts|LeftHandIndex2/rechts|LeftHandIndex3
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandIndex1/rechts|LeftHandIndex2/rechts|LeftHandIndex3/rechts|LeftHandIndex4
+        weight: 0
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandMiddle1
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandMiddle1/rechts|LeftHandMiddle2
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandMiddle1/rechts|LeftHandMiddle2/rechts|LeftHandMiddle3
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandMiddle1/rechts|LeftHandMiddle2/rechts|LeftHandMiddle3/rechts|LeftHandMiddle4
+        weight: 0
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandPinky1
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandPinky1/rechts|LeftHandPinky2
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandPinky1/rechts|LeftHandPinky2/rechts|LeftHandPinky3
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandPinky1/rechts|LeftHandPinky2/rechts|LeftHandPinky3/rechts|LeftHandPinky4
+        weight: 0
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandRing1
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandRing1/rechts|LeftHandRing2
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandRing1/rechts|LeftHandRing2/rechts|LeftHandRing3
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandRing1/rechts|LeftHandRing2/rechts|LeftHandRing3/rechts|LeftHandRing4
+        weight: 0
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandThumb1
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandThumb1/rechts|LeftHandThumb2
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandThumb1/rechts|LeftHandThumb2/rechts|LeftHandThumb3
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandThumb1/rechts|LeftHandThumb2/rechts|LeftHandThumb3/rechts|LeftHandThumb4
+        weight: 0
+      - path: rechts|Hips/rechts|Spine/rechts|Neck
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|Neck/rechts|Head
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandIndex1
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandIndex1/rechts|RightHandIndex2
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandIndex1/rechts|RightHandIndex2/rechts|RightHandIndex3
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandIndex1/rechts|RightHandIndex2/rechts|RightHandIndex3/rechts|RightHandIndex4
+        weight: 0
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandMiddle1
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandMiddle1/rechts|RightHandMiddle2
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandMiddle1/rechts|RightHandMiddle2/rechts|RightHandMiddle3
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandMiddle1/rechts|RightHandMiddle2/rechts|RightHandMiddle3/rechts|RightHandMiddle4
+        weight: 0
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandPinky1
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandPinky1/rechts|RightHandPinky2
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandPinky1/rechts|RightHandPinky2/rechts|RightHandPinky3
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandPinky1/rechts|RightHandPinky2/rechts|RightHandPinky3/rechts|RightHandPinky4
+        weight: 0
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandRing1
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandRing1/rechts|RightHandRing2
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandRing1/rechts|RightHandRing2/rechts|RightHandRing3
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandRing1/rechts|RightHandRing2/rechts|RightHandRing3/rechts|RightHandRing4
+        weight: 0
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandThumb1
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandThumb1/rechts|RightHandThumb2
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandThumb1/rechts|RightHandThumb2/rechts|RightHandThumb3
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandThumb1/rechts|RightHandThumb2/rechts|RightHandThumb3/rechts|RightHandThumb4
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: beide
+      takeName: rechts|BrekelKinect_capture_01_09_2014_17_27_42
+      firstFrame: 41
+      lastFrame: 113
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: rechts|Hips
+        weight: 1
+      - path: rechts|Hips/rechts|LeftUpLeg
+        weight: 1
+      - path: rechts|Hips/rechts|LeftUpLeg/rechts|LeftLeg
+        weight: 1
+      - path: rechts|Hips/rechts|LeftUpLeg/rechts|LeftLeg/rechts|LeftFoot
+        weight: 1
+      - path: rechts|Hips/rechts|RightUpLeg
+        weight: 1
+      - path: rechts|Hips/rechts|RightUpLeg/rechts|RightLeg
+        weight: 1
+      - path: rechts|Hips/rechts|RightUpLeg/rechts|RightLeg/rechts|RightFoot
+        weight: 1
+      - path: rechts|Hips/rechts|Spine
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandIndex1
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandIndex1/rechts|LeftHandIndex2
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandIndex1/rechts|LeftHandIndex2/rechts|LeftHandIndex3
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandIndex1/rechts|LeftHandIndex2/rechts|LeftHandIndex3/rechts|LeftHandIndex4
+        weight: 0
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandMiddle1
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandMiddle1/rechts|LeftHandMiddle2
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandMiddle1/rechts|LeftHandMiddle2/rechts|LeftHandMiddle3
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandMiddle1/rechts|LeftHandMiddle2/rechts|LeftHandMiddle3/rechts|LeftHandMiddle4
+        weight: 0
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandPinky1
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandPinky1/rechts|LeftHandPinky2
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandPinky1/rechts|LeftHandPinky2/rechts|LeftHandPinky3
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandPinky1/rechts|LeftHandPinky2/rechts|LeftHandPinky3/rechts|LeftHandPinky4
+        weight: 0
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandRing1
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandRing1/rechts|LeftHandRing2
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandRing1/rechts|LeftHandRing2/rechts|LeftHandRing3
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandRing1/rechts|LeftHandRing2/rechts|LeftHandRing3/rechts|LeftHandRing4
+        weight: 0
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandThumb1
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandThumb1/rechts|LeftHandThumb2
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandThumb1/rechts|LeftHandThumb2/rechts|LeftHandThumb3
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|LeftShoulder/rechts|LeftArm/rechts|LeftForeArm/rechts|LeftHand/rechts|LeftHandThumb1/rechts|LeftHandThumb2/rechts|LeftHandThumb3/rechts|LeftHandThumb4
+        weight: 0
+      - path: rechts|Hips/rechts|Spine/rechts|Neck
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|Neck/rechts|Head
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandIndex1
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandIndex1/rechts|RightHandIndex2
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandIndex1/rechts|RightHandIndex2/rechts|RightHandIndex3
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandIndex1/rechts|RightHandIndex2/rechts|RightHandIndex3/rechts|RightHandIndex4
+        weight: 0
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandMiddle1
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandMiddle1/rechts|RightHandMiddle2
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandMiddle1/rechts|RightHandMiddle2/rechts|RightHandMiddle3
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandMiddle1/rechts|RightHandMiddle2/rechts|RightHandMiddle3/rechts|RightHandMiddle4
+        weight: 0
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandPinky1
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandPinky1/rechts|RightHandPinky2
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandPinky1/rechts|RightHandPinky2/rechts|RightHandPinky3
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandPinky1/rechts|RightHandPinky2/rechts|RightHandPinky3/rechts|RightHandPinky4
+        weight: 0
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandRing1
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandRing1/rechts|RightHandRing2
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandRing1/rechts|RightHandRing2/rechts|RightHandRing3
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandRing1/rechts|RightHandRing2/rechts|RightHandRing3/rechts|RightHandRing4
+        weight: 0
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandThumb1
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandThumb1/rechts|RightHandThumb2
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandThumb1/rechts|RightHandThumb2/rechts|RightHandThumb3
+        weight: 1
+      - path: rechts|Hips/rechts|Spine/rechts|RightShoulder/rechts|RightArm/rechts|RightForeArm/rechts|RightHand/rechts|RightHandThumb1/rechts|RightHandThumb2/rechts|RightHandThumb3/rechts|RightHandThumb4
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: rechts|Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rechts|LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rechts|RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rechts|LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rechts|RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rechts|LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rechts|RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rechts|Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rechts|Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rechts|Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rechts|LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rechts|RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rechts|LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rechts|RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rechts|LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rechts|RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rechts|LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rechts|RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rechts|LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rechts|LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rechts|LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rechts|LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rechts|LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rechts|LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rechts|LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rechts|LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rechts|LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rechts|LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rechts|LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rechts|LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rechts|LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rechts|LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rechts|LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rechts|RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rechts|RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rechts|RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rechts|RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rechts|RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rechts|RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rechts|RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rechts|RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rechts|RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rechts|RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rechts|RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rechts|RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rechts|RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rechts|RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rechts|RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: tutorial(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -3.19878922e-07, y: 2.42777586e-13, z: -7.58967133e-07, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: rechts|Hips
+      position: {x: -.000853424601, y: 1.00179827, z: -.000404193852}
+      rotation: {x: -.959168732, y: .00320124207, z: -.0692160204, w: .274215728}
+      scale: {x: .999999821, y: .999999881, z: .99999994}
+      transformModified: 1
+    - name: rechts|LeftUpLeg
+      position: {x: -.0661568418, y: .056176126, z: -.0504677035}
+      rotation: {x: -.0911949947, y: .976016641, z: -.180949956, w: .0795744881}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: rechts|LeftLeg
+      position: {x: -4.85777853e-08, y: .47981295, z: -7.21216168e-07}
+      rotation: {x: -.00989963859, y: .00016105859, z: .0162693504, w: .999818623}
+      scale: {x: .99999994, y: 1, z: .999999881}
+      transformModified: 1
+    - name: rechts|LeftFoot
+      position: {x: 3.21865059e-08, y: .369802117, z: 4.71174701e-07}
+      rotation: {x: .0956494436, y: .941394985, z: .32183069, w: -.0324309468}
+      scale: {x: 1, y: .999999821, z: 1}
+      transformModified: 1
+    - name: rechts|RightUpLeg
+      position: {x: .072707735, y: .064685151, z: -.0252231564}
+      rotation: {x: .0341418274, y: .983163774, z: -.14842853, w: .10095682}
+      scale: {x: 1, y: .999999881, z: 1.00000012}
+      transformModified: 1
+    - name: rechts|RightLeg
+      position: {x: 4.7683713e-08, y: .47697708, z: 7.24792471e-07}
+      rotation: {x: -.00123235676, y: -3.36224002e-05, z: -.0272203647, w: .999628723}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: rechts|RightFoot
+      position: {x: 8.58306848e-08, y: .377844036, z: -4.17232515e-09}
+      rotation: {x: -.122634903, y: .90492171, z: .403809279, w: .0549138524}
+      scale: {x: .99999994, y: 1, z: .99999994}
+      transformModified: 1
+    - name: rechts|Spine
+      position: {x: -.00595592614, y: -.0382153913, z: .0751828551}
+      rotation: {x: .980417788, y: -.00813853834, z: .0436204076, w: .191864476}
+      scale: {x: .999999881, y: .999999821, z: 1.00000036}
+      transformModified: 1
+    - name: rechts|LeftShoulder
+      position: {x: 8.70227765e-08, y: .386528045, z: 2.42777162e-07}
+      rotation: {x: .00721784914, y: .019672187, z: .805156648, w: .592691958}
+      scale: {x: 1, y: .999999881, z: .99999994}
+      transformModified: 1
+    - name: rechts|LeftArm
+      position: {x: 1.3709068e-07, y: .21432209, z: -6.99758516e-07}
+      rotation: {x: -.0181719381, y: -.234350696, z: -.13193725, w: .962986052}
+      scale: {x: 1, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: rechts|LeftForeArm
+      position: {x: 3.33786012e-08, y: .208848923, z: 9.58442683e-07}
+      rotation: {x: -.0127534838, y: .0477879271, z: -.0196368787, w: .998583019}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: rechts|LeftHand
+      position: {x: 2.39238148e-07, y: .215244025, z: 2.49445435e-07}
+      rotation: {x: .318790555, y: -.0481406935, z: .578054249, w: .749605477}
+      scale: {x: 1, y: .999999881, z: 1}
+      transformModified: 1
+    - name: rechts|LeftHandIndex1
+      position: {x: .000884468667, y: -1.39467411e-05, z: .000164552024}
+      rotation: {x: -.0132958805, y: .000426128245, z: .0552905537, w: .998381674}
+      scale: {x: .999999642, y: 1, z: .999999702}
+      transformModified: 1
+    - name: rechts|LeftHandIndex2
+      position: {x: .000267060997, y: 5.65871581e-08, z: -8.89599292e-08}
+      rotation: {x: -.000270877907, y: -.000237936954, z: .0087657636, w: .999961555}
+      scale: {x: .99999994, y: .99999994, z: 1}
+      transformModified: 1
+    - name: rechts|LeftHandIndex3
+      position: {x: .000212986619, y: -1.37090677e-08, z: -1.78813924e-08}
+      rotation: {x: -3.00280635e-06, y: .000282572903, z: .00440263515, w: .999990284}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: rechts|LeftHandIndex4
+      position: {x: .000179962808, y: 2.96533109e-08, z: 6.40749898e-09}
+      rotation: {x: -6.25617318e-08, y: 7.01350018e-08, z: -.707106888, w: .707106769}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: rechts|LeftHandMiddle1
+      position: {x: .000925857574, y: -1.84135133e-05, z: 1.03169677e-05}
+      rotation: {x: -.0132524315, y: .000547278323, z: .0555746667, w: .998366416}
+      scale: {x: .999999881, y: 1, z: .999999702}
+      transformModified: 1
+    - name: rechts|LeftHandMiddle2
+      position: {x: .000266005984, y: -4.7907232e-08, z: -1.40070915e-08}
+      rotation: {x: 4.99868802e-05, y: -3.02162016e-06, z: .00872726459, w: .999961972}
+      scale: {x: .999999821, y: .999999821, z: .999999821}
+      transformModified: 1
+    - name: rechts|LeftHandMiddle3
+      position: {x: .000227984478, y: -2.74181353e-08, z: 7.24196383e-08}
+      rotation: {x: -6.5090615e-05, y: -6.59591096e-05, z: .00456541125, w: .999989629}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: rechts|LeftHandMiddle4
+      position: {x: .00014997214, y: -2.02655794e-08, z: -6.43730118e-08}
+      rotation: {x: -5.07079285e-08, y: 7.70497337e-08, z: -.707106888, w: .707106769}
+      scale: {x: .99999994, y: 1, z: .99999994}
+      transformModified: 1
+    - name: rechts|LeftHandPinky1
+      position: {x: .000922718609, y: -3.37715428e-05, z: -.00031663297}
+      rotation: {x: -.0132960668, y: .000446984137, z: .0555024892, w: .998369932}
+      scale: {x: .999999881, y: 1, z: .999999702}
+      transformModified: 1
+    - name: rechts|LeftHandPinky2
+      position: {x: .000163058343, y: -2.20537189e-08, z: -5.42402248e-08}
+      rotation: {x: -.000325280183, y: -.000376639859, z: .00837907847, w: .999964833}
+      scale: {x: .99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: rechts|LeftHandPinky3
+      position: {x: .000170984858, y: 2.71201124e-08, z: -1.38580802e-07}
+      rotation: {x: -.000198002119, y: .000869885553, z: .00412855297, w: .999991119}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: rechts|LeftHandPinky4
+      position: {x: .000180008108, y: 3.159046e-08, z: 1.17719168e-07}
+      rotation: {x: -4.44517632e-08, y: 6.58544721e-08, z: -.707106888, w: .707106769}
+      scale: {x: .999999881, y: .999999881, z: .99999994}
+      transformModified: 1
+    - name: rechts|LeftHandRing1
+      position: {x: .000920546008, y: -2.70067158e-05, z: -.000157418253}
+      rotation: {x: -.0132424599, y: .000555479492, z: .0554444306, w: .998373806}
+      scale: {x: .99999994, y: .999999881, z: .999999702}
+      transformModified: 1
+    - name: rechts|LeftHandRing2
+      position: {x: .000247051415, y: -7.07805148e-09, z: -2.68220894e-08}
+      rotation: {x: -.000198255395, y: -1.82052408e-05, z: .00886269659, w: .99996078}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: rechts|LeftHandRing3
+      position: {x: .000221028764, y: -6.61611566e-08, z: -5.45382477e-08}
+      rotation: {x: -.000744076853, y: -.000493344094, z: .00429745624, w: .999990404}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: rechts|LeftHandRing4
+      position: {x: .000179994997, y: -3.65823496e-08, z: -1.96099279e-07}
+      rotation: {x: -4.90615655e-08, y: 7.70497337e-08, z: -.707106888, w: .707106769}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: rechts|LeftHandThumb1
+      position: {x: .000509262201, y: .000103903112, z: .000309131283}
+      rotation: {x: .145114005, y: -.353236526, z: .0544208623, w: .922607303}
+      scale: {x: .999999881, y: 1, z: .999999762}
+      transformModified: 1
+    - name: rechts|LeftHandThumb2
+      position: {x: .000215053558, y: 1.60187472e-08, z: -5.72204577e-08}
+      rotation: {x: 2.24108826e-05, y: .0240807682, z: .00015027546, w: .999710083}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: rechts|LeftHandThumb3
+      position: {x: .000219998954, y: -3.0733645e-08, z: -2.1774321e-08}
+      rotation: {x: -8.91997661e-06, y: .0241427645, z: -.000184561359, w: .999708533}
+      scale: {x: .99999994, y: .999999881, z: 1}
+      transformModified: 1
+    - name: rechts|LeftHandThumb4
+      position: {x: .000170028798, y: 3.49804736e-08, z: 6.8843363e-08}
+      rotation: {x: -8.14948891e-08, y: 2.93052373e-08, z: -.707106888, w: .707106769}
+      scale: {x: .99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: rechts|Neck
+      position: {x: 8.70227765e-08, y: .386528045, z: 2.42777162e-07}
+      rotation: {x: -.0229766723, y: .000951833033, z: .0413810089, w: .998878777}
+      scale: {x: 1, y: .999999881, z: 1}
+      transformModified: 1
+    - name: rechts|Head
+      position: {x: -6.91413859e-08, y: .153505892, z: -4.78029222e-07}
+      rotation: {x: -8.14907324e-08, y: -6.40284359e-09, z: -8.91741507e-08, w: 1}
+      scale: {x: .99999994, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: rechts|RightShoulder
+      position: {x: 8.70227765e-08, y: .386528045, z: 2.42777162e-07}
+      rotation: {x: .00663867965, y: -.011040153, z: .811600029, w: -.584071577}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: rechts|RightArm
+      position: {x: -1.4007091e-07, y: .217716932, z: -2.41994854e-07}
+      rotation: {x: -.0270746555, y: .127299577, z: .125794545, w: .98348242}
+      scale: {x: .999999762, y: .99999994, z: .999999821}
+      transformModified: 1
+    - name: rechts|RightForeArm
+      position: {x: -2.43186946e-07, y: .214270994, z: 4.9829481e-07}
+      rotation: {x: -.0099885501, y: -.0627515391, z: .025633892, w: .997649968}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: rechts|RightHand
+      position: {x: 8.34465013e-08, y: .259492099, z: 2.71201117e-07}
+      rotation: {x: .391499192, y: -.179459304, z: -.634257615, w: .642059267}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: rechts|RightHandIndex1
+      position: {x: -.000884403591, y: -1.38592713e-05, z: .000164490339}
+      rotation: {x: -.013217059, y: -.000633981952, z: -.0553994253, w: .998376667}
+      scale: {x: .999999881, y: .999999821, z: .999999821}
+      transformModified: 1
+    - name: rechts|RightHandIndex2
+      position: {x: -.000267076481, y: 1.19209282e-08, z: -5.3644178e-09}
+      rotation: {x: 1.42627159e-05, y: -.000232123391, z: -.00917395577, w: .999957919}
+      scale: {x: .999999881, y: .999999881, z: 1}
+      transformModified: 1
+    - name: rechts|RightHandIndex3
+      position: {x: -.000213037725, y: -1.57356254e-07, z: 3.57627861e-09}
+      rotation: {x: .000122038386, y: -.000110651032, z: -.00354184047, w: .999993801}
+      scale: {x: 1, y: .999999881, z: .99999994}
+      transformModified: 1
+    - name: rechts|RightHandIndex4
+      position: {x: -.000180001254, y: 1.04904174e-07, z: 1.90734859e-08}
+      rotation: {x: -7.90253338e-08, y: -5.26835677e-08, z: .707106888, w: .707106769}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: rechts|RightHandMiddle1
+      position: {x: -.000925778702, y: -1.83153152e-05, z: 1.02840359e-05}
+      rotation: {x: -.0132064214, y: -.000650373811, z: -.055335857, w: .998380244}
+      scale: {x: .999999881, y: .999999881, z: .999999762}
+      transformModified: 1
+    - name: rechts|RightHandMiddle2
+      position: {x: -.000266063202, y: 4.41074377e-08, z: 4.17232515e-09}
+      rotation: {x: -7.89245169e-05, y: .000427441439, z: -.0089893546, w: .999959588}
+      scale: {x: .999999702, y: .999999821, z: .999999881}
+      transformModified: 1
+    - name: rechts|RightHandMiddle3
+      position: {x: -.000228025907, y: -8.82148754e-08, z: -2.56299959e-08}
+      rotation: {x: 1.51697877e-05, y: -.000217136752, z: -.00380047713, w: .999992728}
+      scale: {x: 1, y: .99999994, z: .999999881}
+      transformModified: 1
+    - name: rechts|RightHandMiddle4
+      position: {x: -.000150029649, y: 9.05990589e-08, z: 6.55651089e-09}
+      rotation: {x: -6.45373675e-08, y: -5.26835748e-08, z: .707106888, w: .707106769}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: rechts|RightHandPinky1
+      position: {x: -.000922631007, y: -3.36432458e-05, z: -.00031667843}
+      rotation: {x: -.0131914541, y: -.000724024081, z: -.0557517372, w: .998357236}
+      scale: {x: .999999702, y: .999999821, z: .999999881}
+      transformModified: 1
+    - name: rechts|RightHandPinky2
+      position: {x: -.000162906639, y: -7.27176683e-08, z: 2.74181353e-08}
+      rotation: {x: -3.04555033e-05, y: -9.75808944e-05, z: -.00797398854, w: .99996829}
+      scale: {x: .999999881, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: rechts|RightHandPinky3
+      position: {x: -.000171043866, y: 7.62939436e-08, z: 8.3446503e-09}
+      rotation: {x: .000129577078, y: .000348293863, z: -.00459042937, w: .99998939}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: rechts|RightHandPinky4
+      position: {x: -.000180051327, y: 3.695488e-08, z: 6.55651089e-09}
+      rotation: {x: -2.89759488e-08, y: -1.09318421e-07, z: .707106888, w: .707106769}
+      scale: {x: .99999994, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: rechts|RightHandRing1
+      position: {x: -.000920497172, y: -2.68435469e-05, z: -.000157438364}
+      rotation: {x: -.0132166296, y: -.000625638466, z: -.0553064123, w: .998381734}
+      scale: {x: .999999881, y: .999999821, z: .999999821}
+      transformModified: 1
+    - name: rechts|RightHandRing2
+      position: {x: -.000247116084, y: 7.51018518e-08, z: 4.76837148e-09}
+      rotation: {x: 4.31442568e-05, y: 1.09850371e-05, z: -.0094099557, w: .999955773}
+      scale: {x: .999999881, y: .999999881, z: 1}
+      transformModified: 1
+    - name: rechts|RightHandRing3
+      position: {x: -.00022105097, y: -1.85966485e-07, z: 1.78813924e-08}
+      rotation: {x: -2.09240497e-05, y: .000294899772, z: -.00401268993, w: .999991894}
+      scale: {x: 1, y: .999999881, z: .99999994}
+      transformModified: 1
+    - name: rechts|RightHandRing4
+      position: {x: -.000180072777, y: 3.93390636e-08, z: 0}
+      rotation: {x: -7.6391153e-08, y: -5.92690057e-08, z: .707106888, w: .707106769}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: rechts|RightHandThumb1
+      position: {x: -.000509264471, y: .000104122162, z: .000309158262}
+      rotation: {x: .107635289, y: .251908064, z: -.262802452, w: .925144255}
+      scale: {x: 1, y: 1, z: .999999881}
+      transformModified: 1
+    - name: rechts|RightHandThumb2
+      position: {x: -.000215034481, y: 4.17232506e-08, z: -2.86102289e-08}
+      rotation: {x: 4.18111586e-06, y: -.0237416085, z: -.000119989163, w: .99971813}
+      scale: {x: 1, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: rechts|RightHandThumb3
+      position: {x: -.000220034111, y: -5.24520871e-08, z: -4.29153424e-08}
+      rotation: {x: -7.87457466e-05, y: -.0240797158, z: .0001083881, w: .999710083}
+      scale: {x: 1, y: 1, z: .999999881}
+      transformModified: 1
+    - name: rechts|RightHandThumb4
+      position: {x: -.000170008541, y: -1.43051144e-08, z: 5.24520871e-08}
+      rotation: {x: -6.58544579e-08, y: -6.19031866e-08, z: .707106769, w: .707106888}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 

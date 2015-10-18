@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 6f99c546d6a18f04cb9a398f4a230032
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: BrekelKinect_capture_01_09_2014_18_06_41|Head
+    100002: BrekelKinect_capture_01_09_2014_18_06_41|Hips
+    100004: BrekelKinect_capture_01_09_2014_18_06_41|LeftArm
+    100006: BrekelKinect_capture_01_09_2014_18_06_41|LeftFoot
+    100008: BrekelKinect_capture_01_09_2014_18_06_41|LeftForeArm
+    100010: BrekelKinect_capture_01_09_2014_18_06_41|LeftHand
+    100012: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandIndex1
+    100014: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandIndex2
+    100016: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandIndex3
+    100018: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandIndex4
+    100020: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandMiddle1
+    100022: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandMiddle2
+    100024: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandMiddle3
+    100026: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandMiddle4
+    100028: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandPinky1
+    100030: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandPinky2
+    100032: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandPinky3
+    100034: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandPinky4
+    100036: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandRing1
+    100038: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandRing2
+    100040: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandRing3
+    100042: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandRing4
+    100044: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandThumb1
+    100046: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandThumb2
+    100048: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandThumb3
+    100050: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandThumb4
+    100052: BrekelKinect_capture_01_09_2014_18_06_41|LeftLeg
+    100054: BrekelKinect_capture_01_09_2014_18_06_41|LeftShoulder
+    100056: BrekelKinect_capture_01_09_2014_18_06_41|LeftUpLeg
+    100058: BrekelKinect_capture_01_09_2014_18_06_41|Neck
+    100060: BrekelKinect_capture_01_09_2014_18_06_41|RightArm
+    100062: BrekelKinect_capture_01_09_2014_18_06_41|RightFoot
+    100064: BrekelKinect_capture_01_09_2014_18_06_41|RightForeArm
+    100066: BrekelKinect_capture_01_09_2014_18_06_41|RightHand
+    100068: BrekelKinect_capture_01_09_2014_18_06_41|RightHandIndex1
+    100070: BrekelKinect_capture_01_09_2014_18_06_41|RightHandIndex2
+    100072: BrekelKinect_capture_01_09_2014_18_06_41|RightHandIndex3
+    100074: BrekelKinect_capture_01_09_2014_18_06_41|RightHandIndex4
+    100076: BrekelKinect_capture_01_09_2014_18_06_41|RightHandMiddle1
+    100078: BrekelKinect_capture_01_09_2014_18_06_41|RightHandMiddle2
+    100080: BrekelKinect_capture_01_09_2014_18_06_41|RightHandMiddle3
+    100082: BrekelKinect_capture_01_09_2014_18_06_41|RightHandMiddle4
+    100084: BrekelKinect_capture_01_09_2014_18_06_41|RightHandPinky1
+    100086: BrekelKinect_capture_01_09_2014_18_06_41|RightHandPinky2
+    100088: BrekelKinect_capture_01_09_2014_18_06_41|RightHandPinky3
+    100090: BrekelKinect_capture_01_09_2014_18_06_41|RightHandPinky4
+    100092: BrekelKinect_capture_01_09_2014_18_06_41|RightHandRing1
+    100094: BrekelKinect_capture_01_09_2014_18_06_41|RightHandRing2
+    100096: BrekelKinect_capture_01_09_2014_18_06_41|RightHandRing3
+    100098: BrekelKinect_capture_01_09_2014_18_06_41|RightHandRing4
+    100100: BrekelKinect_capture_01_09_2014_18_06_41|RightHandThumb1
+    100102: BrekelKinect_capture_01_09_2014_18_06_41|RightHandThumb2
+    100104: BrekelKinect_capture_01_09_2014_18_06_41|RightHandThumb3
+    100106: BrekelKinect_capture_01_09_2014_18_06_41|RightHandThumb4
+    100108: BrekelKinect_capture_01_09_2014_18_06_41|RightLeg
+    100110: BrekelKinect_capture_01_09_2014_18_06_41|RightShoulder
+    100112: BrekelKinect_capture_01_09_2014_18_06_41|RightUpLeg
+    100114: BrekelKinect_capture_01_09_2014_18_06_41|Spine
+    100116: //RootNode
+    400000: BrekelKinect_capture_01_09_2014_18_06_41|Head
+    400002: BrekelKinect_capture_01_09_2014_18_06_41|Hips
+    400004: BrekelKinect_capture_01_09_2014_18_06_41|LeftArm
+    400006: BrekelKinect_capture_01_09_2014_18_06_41|LeftFoot
+    400008: BrekelKinect_capture_01_09_2014_18_06_41|LeftForeArm
+    400010: BrekelKinect_capture_01_09_2014_18_06_41|LeftHand
+    400012: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandIndex1
+    400014: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandIndex2
+    400016: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandIndex3
+    400018: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandIndex4
+    400020: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandMiddle1
+    400022: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandMiddle2
+    400024: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandMiddle3
+    400026: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandMiddle4
+    400028: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandPinky1
+    400030: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandPinky2
+    400032: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandPinky3
+    400034: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandPinky4
+    400036: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandRing1
+    400038: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandRing2
+    400040: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandRing3
+    400042: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandRing4
+    400044: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandThumb1
+    400046: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandThumb2
+    400048: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandThumb3
+    400050: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandThumb4
+    400052: BrekelKinect_capture_01_09_2014_18_06_41|LeftLeg
+    400054: BrekelKinect_capture_01_09_2014_18_06_41|LeftShoulder
+    400056: BrekelKinect_capture_01_09_2014_18_06_41|LeftUpLeg
+    400058: BrekelKinect_capture_01_09_2014_18_06_41|Neck
+    400060: BrekelKinect_capture_01_09_2014_18_06_41|RightArm
+    400062: BrekelKinect_capture_01_09_2014_18_06_41|RightFoot
+    400064: BrekelKinect_capture_01_09_2014_18_06_41|RightForeArm
+    400066: BrekelKinect_capture_01_09_2014_18_06_41|RightHand
+    400068: BrekelKinect_capture_01_09_2014_18_06_41|RightHandIndex1
+    400070: BrekelKinect_capture_01_09_2014_18_06_41|RightHandIndex2
+    400072: BrekelKinect_capture_01_09_2014_18_06_41|RightHandIndex3
+    400074: BrekelKinect_capture_01_09_2014_18_06_41|RightHandIndex4
+    400076: BrekelKinect_capture_01_09_2014_18_06_41|RightHandMiddle1
+    400078: BrekelKinect_capture_01_09_2014_18_06_41|RightHandMiddle2
+    400080: BrekelKinect_capture_01_09_2014_18_06_41|RightHandMiddle3
+    400082: BrekelKinect_capture_01_09_2014_18_06_41|RightHandMiddle4
+    400084: BrekelKinect_capture_01_09_2014_18_06_41|RightHandPinky1
+    400086: BrekelKinect_capture_01_09_2014_18_06_41|RightHandPinky2
+    400088: BrekelKinect_capture_01_09_2014_18_06_41|RightHandPinky3
+    400090: BrekelKinect_capture_01_09_2014_18_06_41|RightHandPinky4
+    400092: BrekelKinect_capture_01_09_2014_18_06_41|RightHandRing1
+    400094: BrekelKinect_capture_01_09_2014_18_06_41|RightHandRing2
+    400096: BrekelKinect_capture_01_09_2014_18_06_41|RightHandRing3
+    400098: BrekelKinect_capture_01_09_2014_18_06_41|RightHandRing4
+    400100: BrekelKinect_capture_01_09_2014_18_06_41|RightHandThumb1
+    400102: BrekelKinect_capture_01_09_2014_18_06_41|RightHandThumb2
+    400104: BrekelKinect_capture_01_09_2014_18_06_41|RightHandThumb3
+    400106: BrekelKinect_capture_01_09_2014_18_06_41|RightHandThumb4
+    400108: BrekelKinect_capture_01_09_2014_18_06_41|RightLeg
+    400110: BrekelKinect_capture_01_09_2014_18_06_41|RightShoulder
+    400112: BrekelKinect_capture_01_09_2014_18_06_41|RightUpLeg
+    400114: BrekelKinect_capture_01_09_2014_18_06_41|Spine
+    400116: //RootNode
+    7400000: BrekelKinect_capture_01_09_2014_18_06_41|headTurn
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: BrekelKinect_capture_01_09_2014_18_06_41|headTurn
+      takeName: BrekelKinect_capture_01_09_2014_18_06_41|headTurn
+      firstFrame: 46
+      lastFrame: 126
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|LeftUpLeg
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|LeftUpLeg/BrekelKinect_capture_01_09_2014_18_06_41|LeftLeg
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|LeftUpLeg/BrekelKinect_capture_01_09_2014_18_06_41|LeftLeg/BrekelKinect_capture_01_09_2014_18_06_41|LeftFoot
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|RightUpLeg
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|RightUpLeg/BrekelKinect_capture_01_09_2014_18_06_41|RightLeg
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|RightUpLeg/BrekelKinect_capture_01_09_2014_18_06_41|RightLeg/BrekelKinect_capture_01_09_2014_18_06_41|RightFoot
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|LeftShoulder
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|LeftShoulder/BrekelKinect_capture_01_09_2014_18_06_41|LeftArm
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|LeftShoulder/BrekelKinect_capture_01_09_2014_18_06_41|LeftArm/BrekelKinect_capture_01_09_2014_18_06_41|LeftForeArm
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|LeftShoulder/BrekelKinect_capture_01_09_2014_18_06_41|LeftArm/BrekelKinect_capture_01_09_2014_18_06_41|LeftForeArm/BrekelKinect_capture_01_09_2014_18_06_41|LeftHand
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|LeftShoulder/BrekelKinect_capture_01_09_2014_18_06_41|LeftArm/BrekelKinect_capture_01_09_2014_18_06_41|LeftForeArm/BrekelKinect_capture_01_09_2014_18_06_41|LeftHand/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandIndex1
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|LeftShoulder/BrekelKinect_capture_01_09_2014_18_06_41|LeftArm/BrekelKinect_capture_01_09_2014_18_06_41|LeftForeArm/BrekelKinect_capture_01_09_2014_18_06_41|LeftHand/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandIndex1/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandIndex2
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|LeftShoulder/BrekelKinect_capture_01_09_2014_18_06_41|LeftArm/BrekelKinect_capture_01_09_2014_18_06_41|LeftForeArm/BrekelKinect_capture_01_09_2014_18_06_41|LeftHand/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandIndex1/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandIndex2/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandIndex3
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|LeftShoulder/BrekelKinect_capture_01_09_2014_18_06_41|LeftArm/BrekelKinect_capture_01_09_2014_18_06_41|LeftForeArm/BrekelKinect_capture_01_09_2014_18_06_41|LeftHand/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandIndex1/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandIndex2/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandIndex3/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandIndex4
+        weight: 0
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|LeftShoulder/BrekelKinect_capture_01_09_2014_18_06_41|LeftArm/BrekelKinect_capture_01_09_2014_18_06_41|LeftForeArm/BrekelKinect_capture_01_09_2014_18_06_41|LeftHand/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandMiddle1
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|LeftShoulder/BrekelKinect_capture_01_09_2014_18_06_41|LeftArm/BrekelKinect_capture_01_09_2014_18_06_41|LeftForeArm/BrekelKinect_capture_01_09_2014_18_06_41|LeftHand/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandMiddle1/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandMiddle2
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|LeftShoulder/BrekelKinect_capture_01_09_2014_18_06_41|LeftArm/BrekelKinect_capture_01_09_2014_18_06_41|LeftForeArm/BrekelKinect_capture_01_09_2014_18_06_41|LeftHand/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandMiddle1/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandMiddle2/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandMiddle3
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|LeftShoulder/BrekelKinect_capture_01_09_2014_18_06_41|LeftArm/BrekelKinect_capture_01_09_2014_18_06_41|LeftForeArm/BrekelKinect_capture_01_09_2014_18_06_41|LeftHand/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandMiddle1/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandMiddle2/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandMiddle3/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandMiddle4
+        weight: 0
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|LeftShoulder/BrekelKinect_capture_01_09_2014_18_06_41|LeftArm/BrekelKinect_capture_01_09_2014_18_06_41|LeftForeArm/BrekelKinect_capture_01_09_2014_18_06_41|LeftHand/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandPinky1
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|LeftShoulder/BrekelKinect_capture_01_09_2014_18_06_41|LeftArm/BrekelKinect_capture_01_09_2014_18_06_41|LeftForeArm/BrekelKinect_capture_01_09_2014_18_06_41|LeftHand/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandPinky1/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandPinky2
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|LeftShoulder/BrekelKinect_capture_01_09_2014_18_06_41|LeftArm/BrekelKinect_capture_01_09_2014_18_06_41|LeftForeArm/BrekelKinect_capture_01_09_2014_18_06_41|LeftHand/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandPinky1/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandPinky2/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandPinky3
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|LeftShoulder/BrekelKinect_capture_01_09_2014_18_06_41|LeftArm/BrekelKinect_capture_01_09_2014_18_06_41|LeftForeArm/BrekelKinect_capture_01_09_2014_18_06_41|LeftHand/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandPinky1/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandPinky2/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandPinky3/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandPinky4
+        weight: 0
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|LeftShoulder/BrekelKinect_capture_01_09_2014_18_06_41|LeftArm/BrekelKinect_capture_01_09_2014_18_06_41|LeftForeArm/BrekelKinect_capture_01_09_2014_18_06_41|LeftHand/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandRing1
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|LeftShoulder/BrekelKinect_capture_01_09_2014_18_06_41|LeftArm/BrekelKinect_capture_01_09_2014_18_06_41|LeftForeArm/BrekelKinect_capture_01_09_2014_18_06_41|LeftHand/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandRing1/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandRing2
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|LeftShoulder/BrekelKinect_capture_01_09_2014_18_06_41|LeftArm/BrekelKinect_capture_01_09_2014_18_06_41|LeftForeArm/BrekelKinect_capture_01_09_2014_18_06_41|LeftHand/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandRing1/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandRing2/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandRing3
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|LeftShoulder/BrekelKinect_capture_01_09_2014_18_06_41|LeftArm/BrekelKinect_capture_01_09_2014_18_06_41|LeftForeArm/BrekelKinect_capture_01_09_2014_18_06_41|LeftHand/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandRing1/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandRing2/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandRing3/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandRing4
+        weight: 0
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|LeftShoulder/BrekelKinect_capture_01_09_2014_18_06_41|LeftArm/BrekelKinect_capture_01_09_2014_18_06_41|LeftForeArm/BrekelKinect_capture_01_09_2014_18_06_41|LeftHand/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandThumb1
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|LeftShoulder/BrekelKinect_capture_01_09_2014_18_06_41|LeftArm/BrekelKinect_capture_01_09_2014_18_06_41|LeftForeArm/BrekelKinect_capture_01_09_2014_18_06_41|LeftHand/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandThumb1/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandThumb2
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|LeftShoulder/BrekelKinect_capture_01_09_2014_18_06_41|LeftArm/BrekelKinect_capture_01_09_2014_18_06_41|LeftForeArm/BrekelKinect_capture_01_09_2014_18_06_41|LeftHand/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandThumb1/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandThumb2/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandThumb3
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|LeftShoulder/BrekelKinect_capture_01_09_2014_18_06_41|LeftArm/BrekelKinect_capture_01_09_2014_18_06_41|LeftForeArm/BrekelKinect_capture_01_09_2014_18_06_41|LeftHand/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandThumb1/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandThumb2/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandThumb3/BrekelKinect_capture_01_09_2014_18_06_41|LeftHandThumb4
+        weight: 0
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|Neck
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|Neck/BrekelKinect_capture_01_09_2014_18_06_41|Head
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|RightShoulder
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|RightShoulder/BrekelKinect_capture_01_09_2014_18_06_41|RightArm
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|RightShoulder/BrekelKinect_capture_01_09_2014_18_06_41|RightArm/BrekelKinect_capture_01_09_2014_18_06_41|RightForeArm
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|RightShoulder/BrekelKinect_capture_01_09_2014_18_06_41|RightArm/BrekelKinect_capture_01_09_2014_18_06_41|RightForeArm/BrekelKinect_capture_01_09_2014_18_06_41|RightHand
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|RightShoulder/BrekelKinect_capture_01_09_2014_18_06_41|RightArm/BrekelKinect_capture_01_09_2014_18_06_41|RightForeArm/BrekelKinect_capture_01_09_2014_18_06_41|RightHand/BrekelKinect_capture_01_09_2014_18_06_41|RightHandIndex1
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|RightShoulder/BrekelKinect_capture_01_09_2014_18_06_41|RightArm/BrekelKinect_capture_01_09_2014_18_06_41|RightForeArm/BrekelKinect_capture_01_09_2014_18_06_41|RightHand/BrekelKinect_capture_01_09_2014_18_06_41|RightHandIndex1/BrekelKinect_capture_01_09_2014_18_06_41|RightHandIndex2
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|RightShoulder/BrekelKinect_capture_01_09_2014_18_06_41|RightArm/BrekelKinect_capture_01_09_2014_18_06_41|RightForeArm/BrekelKinect_capture_01_09_2014_18_06_41|RightHand/BrekelKinect_capture_01_09_2014_18_06_41|RightHandIndex1/BrekelKinect_capture_01_09_2014_18_06_41|RightHandIndex2/BrekelKinect_capture_01_09_2014_18_06_41|RightHandIndex3
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|RightShoulder/BrekelKinect_capture_01_09_2014_18_06_41|RightArm/BrekelKinect_capture_01_09_2014_18_06_41|RightForeArm/BrekelKinect_capture_01_09_2014_18_06_41|RightHand/BrekelKinect_capture_01_09_2014_18_06_41|RightHandIndex1/BrekelKinect_capture_01_09_2014_18_06_41|RightHandIndex2/BrekelKinect_capture_01_09_2014_18_06_41|RightHandIndex3/BrekelKinect_capture_01_09_2014_18_06_41|RightHandIndex4
+        weight: 0
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|RightShoulder/BrekelKinect_capture_01_09_2014_18_06_41|RightArm/BrekelKinect_capture_01_09_2014_18_06_41|RightForeArm/BrekelKinect_capture_01_09_2014_18_06_41|RightHand/BrekelKinect_capture_01_09_2014_18_06_41|RightHandMiddle1
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|RightShoulder/BrekelKinect_capture_01_09_2014_18_06_41|RightArm/BrekelKinect_capture_01_09_2014_18_06_41|RightForeArm/BrekelKinect_capture_01_09_2014_18_06_41|RightHand/BrekelKinect_capture_01_09_2014_18_06_41|RightHandMiddle1/BrekelKinect_capture_01_09_2014_18_06_41|RightHandMiddle2
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|RightShoulder/BrekelKinect_capture_01_09_2014_18_06_41|RightArm/BrekelKinect_capture_01_09_2014_18_06_41|RightForeArm/BrekelKinect_capture_01_09_2014_18_06_41|RightHand/BrekelKinect_capture_01_09_2014_18_06_41|RightHandMiddle1/BrekelKinect_capture_01_09_2014_18_06_41|RightHandMiddle2/BrekelKinect_capture_01_09_2014_18_06_41|RightHandMiddle3
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|RightShoulder/BrekelKinect_capture_01_09_2014_18_06_41|RightArm/BrekelKinect_capture_01_09_2014_18_06_41|RightForeArm/BrekelKinect_capture_01_09_2014_18_06_41|RightHand/BrekelKinect_capture_01_09_2014_18_06_41|RightHandMiddle1/BrekelKinect_capture_01_09_2014_18_06_41|RightHandMiddle2/BrekelKinect_capture_01_09_2014_18_06_41|RightHandMiddle3/BrekelKinect_capture_01_09_2014_18_06_41|RightHandMiddle4
+        weight: 0
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|RightShoulder/BrekelKinect_capture_01_09_2014_18_06_41|RightArm/BrekelKinect_capture_01_09_2014_18_06_41|RightForeArm/BrekelKinect_capture_01_09_2014_18_06_41|RightHand/BrekelKinect_capture_01_09_2014_18_06_41|RightHandPinky1
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|RightShoulder/BrekelKinect_capture_01_09_2014_18_06_41|RightArm/BrekelKinect_capture_01_09_2014_18_06_41|RightForeArm/BrekelKinect_capture_01_09_2014_18_06_41|RightHand/BrekelKinect_capture_01_09_2014_18_06_41|RightHandPinky1/BrekelKinect_capture_01_09_2014_18_06_41|RightHandPinky2
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|RightShoulder/BrekelKinect_capture_01_09_2014_18_06_41|RightArm/BrekelKinect_capture_01_09_2014_18_06_41|RightForeArm/BrekelKinect_capture_01_09_2014_18_06_41|RightHand/BrekelKinect_capture_01_09_2014_18_06_41|RightHandPinky1/BrekelKinect_capture_01_09_2014_18_06_41|RightHandPinky2/BrekelKinect_capture_01_09_2014_18_06_41|RightHandPinky3
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|RightShoulder/BrekelKinect_capture_01_09_2014_18_06_41|RightArm/BrekelKinect_capture_01_09_2014_18_06_41|RightForeArm/BrekelKinect_capture_01_09_2014_18_06_41|RightHand/BrekelKinect_capture_01_09_2014_18_06_41|RightHandPinky1/BrekelKinect_capture_01_09_2014_18_06_41|RightHandPinky2/BrekelKinect_capture_01_09_2014_18_06_41|RightHandPinky3/BrekelKinect_capture_01_09_2014_18_06_41|RightHandPinky4
+        weight: 0
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|RightShoulder/BrekelKinect_capture_01_09_2014_18_06_41|RightArm/BrekelKinect_capture_01_09_2014_18_06_41|RightForeArm/BrekelKinect_capture_01_09_2014_18_06_41|RightHand/BrekelKinect_capture_01_09_2014_18_06_41|RightHandRing1
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|RightShoulder/BrekelKinect_capture_01_09_2014_18_06_41|RightArm/BrekelKinect_capture_01_09_2014_18_06_41|RightForeArm/BrekelKinect_capture_01_09_2014_18_06_41|RightHand/BrekelKinect_capture_01_09_2014_18_06_41|RightHandRing1/BrekelKinect_capture_01_09_2014_18_06_41|RightHandRing2
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|RightShoulder/BrekelKinect_capture_01_09_2014_18_06_41|RightArm/BrekelKinect_capture_01_09_2014_18_06_41|RightForeArm/BrekelKinect_capture_01_09_2014_18_06_41|RightHand/BrekelKinect_capture_01_09_2014_18_06_41|RightHandRing1/BrekelKinect_capture_01_09_2014_18_06_41|RightHandRing2/BrekelKinect_capture_01_09_2014_18_06_41|RightHandRing3
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|RightShoulder/BrekelKinect_capture_01_09_2014_18_06_41|RightArm/BrekelKinect_capture_01_09_2014_18_06_41|RightForeArm/BrekelKinect_capture_01_09_2014_18_06_41|RightHand/BrekelKinect_capture_01_09_2014_18_06_41|RightHandRing1/BrekelKinect_capture_01_09_2014_18_06_41|RightHandRing2/BrekelKinect_capture_01_09_2014_18_06_41|RightHandRing3/BrekelKinect_capture_01_09_2014_18_06_41|RightHandRing4
+        weight: 0
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|RightShoulder/BrekelKinect_capture_01_09_2014_18_06_41|RightArm/BrekelKinect_capture_01_09_2014_18_06_41|RightForeArm/BrekelKinect_capture_01_09_2014_18_06_41|RightHand/BrekelKinect_capture_01_09_2014_18_06_41|RightHandThumb1
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|RightShoulder/BrekelKinect_capture_01_09_2014_18_06_41|RightArm/BrekelKinect_capture_01_09_2014_18_06_41|RightForeArm/BrekelKinect_capture_01_09_2014_18_06_41|RightHand/BrekelKinect_capture_01_09_2014_18_06_41|RightHandThumb1/BrekelKinect_capture_01_09_2014_18_06_41|RightHandThumb2
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|RightShoulder/BrekelKinect_capture_01_09_2014_18_06_41|RightArm/BrekelKinect_capture_01_09_2014_18_06_41|RightForeArm/BrekelKinect_capture_01_09_2014_18_06_41|RightHand/BrekelKinect_capture_01_09_2014_18_06_41|RightHandThumb1/BrekelKinect_capture_01_09_2014_18_06_41|RightHandThumb2/BrekelKinect_capture_01_09_2014_18_06_41|RightHandThumb3
+        weight: 1
+      - path: BrekelKinect_capture_01_09_2014_18_06_41|Hips/BrekelKinect_capture_01_09_2014_18_06_41|Spine/BrekelKinect_capture_01_09_2014_18_06_41|RightShoulder/BrekelKinect_capture_01_09_2014_18_06_41|RightArm/BrekelKinect_capture_01_09_2014_18_06_41|RightForeArm/BrekelKinect_capture_01_09_2014_18_06_41|RightHand/BrekelKinect_capture_01_09_2014_18_06_41|RightHandThumb1/BrekelKinect_capture_01_09_2014_18_06_41|RightHandThumb2/BrekelKinect_capture_01_09_2014_18_06_41|RightHandThumb3/BrekelKinect_capture_01_09_2014_18_06_41|RightHandThumb4
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BrekelKinect_capture_01_09_2014_18_06_41|RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: headTurnVertical(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -3.66946042e-05, y: 4.5245808e-12, z: -1.50995817e-07, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|Hips
+      position: {x: -.00283930451, y: 1.0338769, z: -.0113468776}
+      rotation: {x: -.985219419, y: -.0050946991, z: -.0311822239, w: .168358162}
+      scale: {x: 1, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|LeftUpLeg
+      position: {x: -.0694185048, y: .0650082454, z: -.0420694016}
+      rotation: {x: -.0779107139, y: .98702395, z: -.135499403, w: .0367912091}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|LeftLeg
+      position: {x: -7.74860354e-09, y: .475921988, z: 4.79519372e-07}
+      rotation: {x: -.00868447032, y: .000124816477, z: .0143675748, w: .999859095}
+      scale: {x: .99999994, y: .999999821, z: .99999994}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|LeftFoot
+      position: {x: 7.74860354e-09, y: .366842002, z: 4.71472731e-07}
+      rotation: {x: .115164153, y: .947423398, z: .296343386, w: -.0361484475}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|RightUpLeg
+      position: {x: .0720198601, y: .0710292161, z: -.0299067032}
+      rotation: {x: .0493646041, y: .990000308, z: -.12096142, w: .0532061569}
+      scale: {x: .999999821, y: 1.00000012, z: .999999821}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|RightLeg
+      position: {x: -1.86264515e-08, y: .48940599, z: 2.19345083e-07}
+      rotation: {x: .00923061557, y: .000300468091, z: -.032533098, w: .999427974}
+      scale: {x: .999999821, y: .999999821, z: .99999994}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|RightFoot
+      position: {x: -7.74860354e-09, y: .379406124, z: -4.77135188e-07}
+      rotation: {x: -.177281499, y: .93214041, z: .310191423, w: .0588799752}
+      scale: {x: 1.00000012, y: 1.00000036, z: 1}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|Spine
+      position: {x: -.00238983263, y: -.0411662236, z: .0717465952}
+      rotation: {x: .98633641, y: -.00375780719, z: .0165704973, w: .163865238}
+      scale: {x: .999999821, y: .999999762, z: .999997377}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|LeftShoulder
+      position: {x: -2.98023217e-10, y: .386528045, z: 2.21058727e-07}
+      rotation: {x: .00208061631, y: -.0145508116, z: .803711772, w: .594837308}
+      scale: {x: .999999881, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|LeftArm
+      position: {x: 2.11447471e-07, y: .220950976, z: -4.81605525e-07}
+      rotation: {x: .00791815296, y: -.159641102, z: -.139474407, w: .977240443}
+      scale: {x: 1.00000012, y: .999999762, z: .999999881}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|LeftForeArm
+      position: {x: 2.002716e-07, y: .232663989, z: -3.81469718e-08}
+      rotation: {x: -.0122892736, y: .0217464287, z: -.0153283607, w: .999570489}
+      scale: {x: .99999994, y: .999999821, z: .99999994}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|LeftHand
+      position: {x: 2.28881831e-07, y: .212506935, z: -2.90870673e-07}
+      rotation: {x: .330348581, y: .0931591392, z: .640105128, w: .687354803}
+      scale: {x: .99999994, y: .999999821, z: 1}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandIndex1
+      position: {x: .000884439913, y: -1.37662882e-05, z: .000164676894}
+      rotation: {x: -.0253250208, y: .0253246333, z: .0254085436, w: .999035418}
+      scale: {x: .99999994, y: .999999583, z: .999999821}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandIndex2
+      position: {x: .000267043099, y: -1.90734859e-08, z: -1.31130218e-08}
+      rotation: {x: -1.67638081e-08, y: -5.49480355e-08, z: -7.4505806e-09, w: 1}
+      scale: {x: 1, y: .99999994, z: .999999881}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandIndex3
+      position: {x: .000213007923, y: 4.7683713e-08, z: 1.07288356e-08}
+      rotation: {x: 9.31322575e-09, y: -9.31322575e-10, z: 2.23517418e-08, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandIndex4
+      position: {x: .00018003225, y: 1.43051139e-07, z: 2.38418574e-09}
+      rotation: {x: -7.24398959e-08, y: 6.98057292e-08, z: -.707106888, w: .707106769}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandMiddle1
+      position: {x: .000925810309, y: -1.82056428e-05, z: 1.03896855e-05}
+      rotation: {x: -.0253250357, y: .025324624, z: .0254085362, w: .999035418}
+      scale: {x: 1, y: .999999762, z: .999999881}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandMiddle2
+      position: {x: .000266039366, y: -9.53674295e-09, z: -3.87430177e-08}
+      rotation: {x: 9.31322797e-10, y: -6.61239028e-08, z: -1.86264515e-08, w: 1}
+      scale: {x: 1, y: .999999881, z: .99999994}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandMiddle3
+      position: {x: .000227956771, y: 1.43051144e-08, z: -8.58306848e-08}
+      rotation: {x: 9.31323019e-10, y: -4.4408921e-16, z: 1.86264515e-08, w: 1}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandMiddle4
+      position: {x: .000150012973, y: 1.14440915e-07, z: 2.98023224e-08}
+      rotation: {x: -6.84886388e-08, y: 5.13664915e-08, z: -.707106888, w: .707106769}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandPinky1
+      position: {x: .00092262507, y: -3.36027151e-05, z: -.000316579943}
+      rotation: {x: -.0253250413, y: .0253246315, z: .0254085232, w: .999035418}
+      scale: {x: 1, y: .99999994, z: .999999881}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandPinky2
+      position: {x: .000162994853, y: 8.58306848e-08, z: -1.03712082e-07}
+      rotation: {x: -9.31322575e-09, y: -6.05359674e-08, z: -3.7252903e-09, w: 1}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandPinky3
+      position: {x: .000171048639, y: -2.86102289e-08, z: 1.02519984e-07}
+      rotation: {x: -8.38190228e-09, y: -1.86264604e-09, z: 7.45058149e-09, w: 1}
+      scale: {x: .99999994, y: .999999881, z: 1}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandPinky4
+      position: {x: .000179963114, y: 7.15255695e-08, z: 8.34465013e-08}
+      rotation: {x: -6.84886388e-08, y: 6.5854465e-08, z: -.707106888, w: .707106769}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandRing1
+      position: {x: .000920472143, y: -2.69031516e-05, z: -.000157472488}
+      rotation: {x: -.0253250357, y: .0253246315, z: .0254085287, w: .999035418}
+      scale: {x: 1, y: .999999762, z: .999999881}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandRing2
+      position: {x: .000247051707, y: -4.7683713e-08, z: -1.29342069e-07}
+      rotation: {x: -1.02445492e-08, y: -6.23986125e-08, z: -1.49011612e-08, w: 1}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandRing3
+      position: {x: .000221045018, y: 1.23977657e-07, z: 5.3644178e-09}
+      rotation: {x: -7.4505806e-09, y: 6.51925891e-09, z: -3.7252903e-09, w: 1}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandRing4
+      position: {x: .000180001254, y: -5.72204577e-08, z: 2.38418565e-08}
+      rotation: {x: -6.3220277e-08, y: 6.05861246e-08, z: -.707106888, w: .707106769}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandThumb1
+      position: {x: .000509247766, y: .000104031562, z: .000309254508}
+      rotation: {x: -.0137577904, y: -.308471471, z: .0947696194, w: .94640094}
+      scale: {x: .99999994, y: .999999702, z: .999999821}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandThumb2
+      position: {x: .000215001099, y: 4.29153424e-08, z: 8.34465013e-08}
+      rotation: {x: 4.65661332e-09, y: -6.89178705e-08, z: -1.11758718e-08, w: 1}
+      scale: {x: 1, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandThumb3
+      position: {x: .000219929207, y: 0, z: -9.71555707e-08}
+      rotation: {x: -2.79396772e-09, y: 6.51925802e-09, z: 1.49011612e-08, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|LeftHandThumb4
+      position: {x: .000169997205, y: 6.67572024e-08, z: -2.08616253e-08}
+      rotation: {x: -6.32202699e-08, y: 4.34639382e-08, z: -.707106769, w: .707106888}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|Neck
+      position: {x: -2.98023217e-10, y: .386528045, z: 2.21058727e-07}
+      rotation: {x: -.013098103, y: .000224608244, z: .0171431564, w: .999767244}
+      scale: {x: 1, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|Head
+      position: {x: 1.24573702e-07, y: .165514827, z: -8.15838597e-09}
+      rotation: {x: 1.74622983e-10, y: 8.73114914e-11, z: -9.60426405e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|RightShoulder
+      position: {x: -2.98023217e-10, y: .386528045, z: 2.21058727e-07}
+      rotation: {x: .00639454741, y: -.0314370021, z: .812598884, w: -.581939757}
+      scale: {x: 1, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|RightArm
+      position: {x: -3.63588342e-08, y: .224170014, z: -7.33137142e-07}
+      rotation: {x: -.0149767818, y: .206079558, z: .137267292, w: .968743861}
+      scale: {x: 1.00000012, y: .999999821, z: .99999994}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|RightForeArm
+      position: {x: -1.85966485e-07, y: .238394961, z: -5.30481316e-07}
+      rotation: {x: -.0127831623, y: -.0256060306, z: .015731575, w: .999466598}
+      scale: {x: 1, y: .999999762, z: .999999762}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|RightHand
+      position: {x: -1.09672541e-07, y: .24671109, z: 9.90927163e-08}
+      rotation: {x: .398178369, y: -.0895229056, z: -.616538346, w: .673290491}
+      scale: {x: .99999994, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|RightHandIndex1
+      position: {x: -.000884480483, y: -1.38664245e-05, z: .000164654251}
+      rotation: {x: -.0253250841, y: -.025324652, z: -.0254085809, w: .999035418}
+      scale: {x: .99999994, y: .999999762, z: .99999994}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|RightHandIndex2
+      position: {x: -.000266973977, y: -3.33786012e-08, z: -2.503395e-08}
+      rotation: {x: -1.21071917e-08, y: 6.33299351e-08, z: 1.11758709e-08, w: 1}
+      scale: {x: 1, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|RightHandIndex3
+      position: {x: -.000212993618, y: -1.38282772e-07, z: 1.54972071e-08}
+      rotation: {x: 9.31322575e-10, y: 7.45057971e-09, z: -7.4505806e-09, w: 1}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|RightHandIndex4
+      position: {x: -.000179903509, y: -4.29153424e-08, z: 2.32458106e-08}
+      rotation: {x: -4.34639347e-08, y: -8.29766194e-08, z: .707106888, w: .707106769}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|RightHandMiddle1
+      position: {x: -.000925838947, y: -1.83248521e-05, z: 1.04063747e-05}
+      rotation: {x: -.0253250673, y: -.0253246538, z: -.025408566, w: .999035418}
+      scale: {x: 1, y: .999999821, z: .999999881}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|RightHandMiddle2
+      position: {x: -.000266060815, y: -4.76837148e-09, z: -6.97374318e-08}
+      rotation: {x: -6.51926024e-09, y: 6.14672899e-08, z: 2.23517418e-08, w: 1}
+      scale: {x: 1, y: .999999881, z: 1.00000012}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|RightHandMiddle3
+      position: {x: -.000228025907, y: -6.19888283e-08, z: 8.28504554e-08}
+      rotation: {x: -9.31323019e-10, y: -7.45058015e-09, z: -1.11758709e-08, w: 1}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|RightHandMiddle4
+      position: {x: -.000150005813, y: 2.38418565e-08, z: -1.19209287e-09}
+      rotation: {x: -6.84886388e-08, y: -5.53177415e-08, z: .707106888, w: .707106769}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|RightHandPinky1
+      position: {x: -.000922663196, y: -3.37553029e-05, z: -.000316533435}
+      rotation: {x: -.0253250841, y: -.0253246576, z: -.0254085716, w: .999035418}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|RightHandPinky2
+      position: {x: -.000162997239, y: 0, z: -1.7881393e-09}
+      rotation: {x: -3.7252903e-09, y: 6.51925802e-08, z: -7.45058015e-09, w: 1}
+      scale: {x: 1, y: .999999881, z: 1}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|RightHandPinky3
+      position: {x: -.000171010484, y: 4.7683713e-08, z: -1.01327897e-08}
+      rotation: {x: 1.02445483e-08, y: 7.4505806e-09, z: 3.7252903e-09, w: 1}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|RightHandPinky4
+      position: {x: -.000180001254, y: -1.43051144e-08, z: 2.98023206e-09}
+      rotation: {x: -2.50246917e-08, y: -8.82449811e-08, z: .707106888, w: .707106769}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|RightHandRing1
+      position: {x: -.000920534134, y: -2.69699085e-05, z: -.000157443283}
+      rotation: {x: -.0253250357, y: -.0253246576, z: -.0254085734, w: .999035418}
+      scale: {x: .99999994, y: .999999702, z: .999999821}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|RightHandRing2
+      position: {x: -.000246961106, y: 0, z: -3.09944141e-08}
+      rotation: {x: 1.86264471e-09, y: 7.07805086e-08, z: 2.23517418e-08, w: 1}
+      scale: {x: 1, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|RightHandRing3
+      position: {x: -.000221037859, y: -4.7683713e-08, z: -8.3446503e-09}
+      rotation: {x: -5.58793589e-09, y: -1.86264537e-09, z: 3.7252903e-09, w: 1}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|RightHandRing4
+      position: {x: -.000180056086, y: 1.1920929e-07, z: -7.15255695e-08}
+      rotation: {x: -4.87322964e-08, y: -3.55614063e-08, z: .707106888, w: .707106769}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|RightHandThumb1
+      position: {x: -.000509288278, y: .000104060171, z: .00030929147}
+      rotation: {x: -.0139500303, y: .309089601, z: -.0938731134, w: .946285903}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|RightHandThumb2
+      position: {x: -.000214953412, y: -6.19888283e-08, z: -2.98023224e-08}
+      rotation: {x: 1.76951289e-08, y: 7.26431608e-08, z: -1.11758727e-08, w: 1}
+      scale: {x: .99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|RightHandThumb3
+      position: {x: -.000220041271, y: -1.04904174e-07, z: 5.84125495e-08}
+      rotation: {x: 8.38190317e-09, y: 5.58793545e-09, z: -1.11758727e-08, w: 1}
+      scale: {x: .99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: BrekelKinect_capture_01_09_2014_18_06_41|RightHandThumb4
+      position: {x: -.000169994833, y: -4.29153424e-08, z: 6.02006907e-08}
+      rotation: {x: -4.2146862e-08, y: -5.92690128e-08, z: .707106769, w: .707106888}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 
