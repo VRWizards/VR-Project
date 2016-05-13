@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: 4512c85f882d50a418df7bce9a087036
+timeCreated: 1456245568
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _mixed___Texture_
+    100002: _none___Image___2___Texture_
+    100004: _none___Image___3___Texture_
+    100006: _none___Image___4___Texture_
+    100008: _none___Image___5___Texture_
+    100010: _none___Image___Texture_
+    100012: Camera
+    100014: Carbon_Steel.lxp__2_
+    100016: Chain_Mesh_01.lxp__2_
+    100018: Cylinder
+    100020: Directional_Light
+    100022: Gradient__115___Texture_
+    100024: Gradient__116___Texture_
+    100026: Gradient__117___Texture_
+    100028: Gradient__18___Texture_
+    100030: Gradient__19___Texture_
+    100032: Gradient__21___Texture_
+    100034: Gradient__2___Texture_
+    100036: Gradient__3___Texture_
+    100038: Gradient__455___Texture_
+    100040: Gradient__Texture_
+    100042: //RootNode
+    100044: Mesh
+    100046: Mesh__2_
+    100048: Noise__3___Texture_
+    100050: Noise__42___Texture_
+    100052: Noise__Texture_
+    100054: Polished_Rosewood.lxp__3_
+    100056: Polished_Rosewood_Endgrain.lxp__3_
+    100058: Polished_Steel.lxp__2_
+    100060: Polished_Steel.lxp__3_
+    100062: Render
+    100064: Texture_Group
+    100066: Unfinished_3D_Teak.lxp__3_
+    100068: Unfinished_Teak_2D.lxp__2_
+    400000: _mixed___Texture_
+    400002: _none___Image___2___Texture_
+    400004: _none___Image___3___Texture_
+    400006: _none___Image___4___Texture_
+    400008: _none___Image___5___Texture_
+    400010: _none___Image___Texture_
+    400012: Camera
+    400014: Carbon_Steel.lxp__2_
+    400016: Chain_Mesh_01.lxp__2_
+    400018: Cylinder
+    400020: Directional_Light
+    400022: Gradient__115___Texture_
+    400024: Gradient__116___Texture_
+    400026: Gradient__117___Texture_
+    400028: Gradient__18___Texture_
+    400030: Gradient__19___Texture_
+    400032: Gradient__21___Texture_
+    400034: Gradient__2___Texture_
+    400036: Gradient__3___Texture_
+    400038: Gradient__455___Texture_
+    400040: Gradient__Texture_
+    400042: //RootNode
+    400044: Mesh
+    400046: Mesh__2_
+    400048: Noise__3___Texture_
+    400050: Noise__42___Texture_
+    400052: Noise__Texture_
+    400054: Polished_Rosewood.lxp__3_
+    400056: Polished_Rosewood_Endgrain.lxp__3_
+    400058: Polished_Steel.lxp__2_
+    400060: Polished_Steel.lxp__3_
+    400062: Render
+    400064: Texture_Group
+    400066: Unfinished_3D_Teak.lxp__3_
+    400068: Unfinished_Teak_2D.lxp__2_
+    2300000: Cylinder
+    2300002: Mesh__2_
+    3300000: Cylinder
+    3300002: Mesh__2_
+    4300000: Cylinder
+    4300002: Mesh__2_
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
