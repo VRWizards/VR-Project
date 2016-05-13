@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 10e810bec99fbf14aa1c8f055d5ca304
+timeCreated: 1452192925
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: head
+    100002: leftCalf
+    100004: leftFoot
+    100006: leftForearm
+    100008: leftHand
+    100010: leftShoulder
+    100012: leftThigh
+    100014: leftTorso
+    100016: leftUpperArm
+    100018: midsection
+    100020: pelvis
+    100022: rightCalf
+    100024: rightFoot
+    100026: rightForearm
+    100028: rightHand
+    100030: rightShoulder
+    100032: rightThigh
+    100034: rightTorso
+    100036: rightUpperArm
+    100038: //RootNode
+    400000: head
+    400002: leftCalf
+    400004: leftFoot
+    400006: leftForearm
+    400008: leftHand
+    400010: leftShoulder
+    400012: leftThigh
+    400014: leftTorso
+    400016: leftUpperArm
+    400018: midsection
+    400020: pelvis
+    400022: rightCalf
+    400024: rightFoot
+    400026: rightForearm
+    400028: rightHand
+    400030: rightShoulder
+    400032: rightThigh
+    400034: rightTorso
+    400036: rightUpperArm
+    400038: //RootNode
+    2300000: head
+    2300002: leftCalf
+    2300004: leftFoot
+    2300006: leftForearm
+    2300008: leftHand
+    2300010: leftShoulder
+    2300012: leftThigh
+    2300014: leftTorso
+    2300016: leftUpperArm
+    2300018: midsection
+    2300020: pelvis
+    2300022: rightCalf
+    2300024: rightFoot
+    2300026: rightForearm
+    2300028: rightHand
+    2300030: rightShoulder
+    2300032: rightThigh
+    2300034: rightTorso
+    2300036: rightUpperArm
+    3300000: head
+    3300002: leftCalf
+    3300004: leftFoot
+    3300006: leftForearm
+    3300008: leftHand
+    3300010: leftShoulder
+    3300012: leftThigh
+    3300014: leftTorso
+    3300016: leftUpperArm
+    3300018: midsection
+    3300020: pelvis
+    3300022: rightCalf
+    3300024: rightFoot
+    3300026: rightForearm
+    3300028: rightHand
+    3300030: rightShoulder
+    3300032: rightThigh
+    3300034: rightTorso
+    3300036: rightUpperArm
+    4300000: head
+    4300002: leftCalf
+    4300004: leftFoot
+    4300006: leftForearm
+    4300008: leftHand
+    4300010: leftShoulder
+    4300012: leftThigh
+    4300014: leftTorso
+    4300016: leftUpperArm
+    4300018: midsection
+    4300020: pelvis
+    4300022: rightCalf
+    4300024: rightFoot
+    4300026: rightForearm
+    4300028: rightHand
+    4300030: rightShoulder
+    4300032: rightThigh
+    4300034: rightTorso
+    4300036: rightUpperArm
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

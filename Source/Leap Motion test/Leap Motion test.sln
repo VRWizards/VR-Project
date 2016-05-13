@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leap Motion test.CSharp.Plugins", "Leap Motion test.CSharp.Plugins.csproj", "{68650B12-42A2-F560-5841-CE76FAF03BD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leap Motion test.CSharp", "Leap Motion test.CSharp.csproj", "{8ECC3D29-4D68-DE13-C1E7-FB9D360317A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leap Motion test.CSharp.Editor", "Leap Motion test.CSharp.Editor.csproj", "{0463F5E8-3B70-DF5B-5249-4C1C86AC8E05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68650B12-42A2-F560-5841-CE76FAF03BD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68650B12-42A2-F560-5841-CE76FAF03BD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68650B12-42A2-F560-5841-CE76FAF03BD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68650B12-42A2-F560-5841-CE76FAF03BD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ECC3D29-4D68-DE13-C1E7-FB9D360317A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ECC3D29-4D68-DE13-C1E7-FB9D360317A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ECC3D29-4D68-DE13-C1E7-FB9D360317A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ECC3D29-4D68-DE13-C1E7-FB9D360317A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0463F5E8-3B70-DF5B-5249-4C1C86AC8E05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0463F5E8-3B70-DF5B-5249-4C1C86AC8E05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0463F5E8-3B70-DF5B-5249-4C1C86AC8E05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0463F5E8-3B70-DF5B-5249-4C1C86AC8E05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
